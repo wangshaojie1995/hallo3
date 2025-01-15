@@ -180,10 +180,10 @@ Hallo3 has a few simple requirements for the input data of inference:
 
 #### Gradio UI 
 
-To run the Gradio UI simply run `scripts/app.py`:
+To run the Gradio UI simply run `hallo3/app.py`:
 
 ```bash
-python scripts/app.py
+python hallo3/app.py
 ```
 
 ![Gradio Demo](assets/gradio.png)
